@@ -1,0 +1,6 @@
+[package]
+name="rust_polygon_data_structures"
+version="0.1.0"
+authors=["Sam Ebertz <samuel.ebertz@gmail.com"]
+
+[dependencies]
